@@ -20,5 +20,5 @@ pip install -r requirements.txt
 
 ```
 1) Из корневой папки запускаем python -m app.main
-2) Из кореной папки запускаем pytest
+2) Из корневой папки запускаем pytest
 ```
